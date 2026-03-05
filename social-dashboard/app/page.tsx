@@ -20,11 +20,8 @@ function highlightHtml(input: string, terms: string[]) {
 }
 function isRelated(text: string) {
   const t = text.toLowerCase();
-  const acneSignal = /(acne|breakout|pimple|comedone|zit|여드름|트러블)/.test(t);
-  const contactSignal = /(pillow|pillowcase|bedding|sheet|linen|sleep surface|베개|침구|커버)/.test(t);
-  const altSignal = /(disposable pillowcase|towel on pillow|t-shirt on pillow|silk pillowcase)/.test(t);
-  const compulsionSignal = /(germaphobia|disinfect pillow|germ.*pillow)/.test(t);
-  return (acneSignal && contactSignal) || altSignal || compulsionSignal;
+  // OR(합집합) 기준: 트래킹 키워드/주제 중 하나라도 매칭되면 포함
+  return TRACKING_KEYWORDS.some((k) => t.includes(k));
 }
 
 export default async function Home({ searchParams }: Props) {
