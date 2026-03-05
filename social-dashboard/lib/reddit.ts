@@ -42,7 +42,7 @@ function listBaseReportFiles(): string[] {
 }
 
 export function listReportArchives(): Array<{ fileName: string; date: string }> {
-  return listBaseReportFiles().map((fileName) => {
+  return listBaseReportFiles().slice(0, 3).map((fileName) => {
     const m = fileName.match(/reddit_daily_report_(\d{4}-\d{2}-\d{2})\.json/);
     return { fileName, date: m?.[1] ?? fileName };
   });

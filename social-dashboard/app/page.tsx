@@ -124,11 +124,17 @@ export default async function Home({ searchParams }: Props) {
                   {view !== "en" && <p style={{ marginTop: 8, whiteSpace: "pre-wrap", lineHeight: 1.5 }} dangerouslySetInnerHTML={{ __html: highlightHtml(bodyKo, highlightTerms) }} />}
                   {view !== "ko" && <p style={{ marginTop: 8, whiteSpace: "pre-wrap", lineHeight: 1.5, color: "#444" }} dangerouslySetInnerHTML={{ __html: highlightHtml(bodyEn, highlightTerms) }} />}
 
-                  <details style={{ marginTop: 10 }}>
-                    <summary>댓글 논쟁/브랜드 (원문 유지)</summary>
-                    <ul style={{ marginTop: 8, paddingLeft: 20 }}>{(p.debate_top3 ?? []).map((c, i) => <li key={i} style={{ marginBottom: 6 }}>{c}</li>)}</ul>
+                  <div style={{ marginTop: 10, borderTop: "1px dashed #ddd", paddingTop: 10 }}>
+                    <b>주요 댓글 원문 (Top comments)</b>
+                    <ul style={{ marginTop: 8, paddingLeft: 20 }}>
+                      {(p.debate_top3 ?? []).length ? (
+                        (p.debate_top3 ?? []).map((c, i) => <li key={i} style={{ marginBottom: 6 }}>{c}</li>)
+                      ) : (
+                        <li>[댓글 데이터 없음]</li>
+                      )}
+                    </ul>
                     <p style={{ marginTop: 8 }}>brands: {(p.brand_mentions ?? []).join(", ") || "none"}</p>
-                  </details>
+                  </div>
                 </article>
               );
             })}
