@@ -98,22 +98,57 @@
           "Dr. Bronners",
           "Do you wash your pillow case and blanket sheets weekly?"
         ],
-        "debate_top3": [],
+        "debate_top3": [
+          "Get to a dermatologist ASAP",
+          "I saw that you are going to a dermatologist. Listen to everything they say! They will likely put you on Accutane. Which brings me to my next point… I saw another comment saying you don’t use moisturizer. Acne often gets worse because of a compromised skin barrier. For example, when you have a cut on your hand how does it heal best? Keeping it moisturized.  My recommendation is a very very simple cleanser, salicylic acid toner, moisturizer WITH SPF during the day. Same thing at night, maybe azelaic or glycolic acid. But always use moisturizer unless you live in the jungle",
+          "Maybe ask the Dermatologist about Accutane. It can be effective before scarring sets in. It’s a very powerful oral drug."
+        ],
         "key": "acne:1rfloh8",
         "title_ko": "여드름은 계속 진행되어 날이 갈수록 심해지고 있습니다",
         "body_ko": "제가 며칠 전에 여기에 글을 올린 것으로 알고 있는데, 너무 심해서 만지지 않아도 여전히 극심한 고통을 받는 지경이 되었습니다. 나는 지금까지 더 나쁜 탈주를 경험한 적이 없습니다. 지금은 플루옥세틴을 복용하고 있는데 그것이 엄청난 발진을 일으키는지는 잘 모르겠습니다. \n\n하지만 거울이나 사진을 보면서 여드름의 나쁜 모습을 보는 것은 너무 힘이 듭니다. 지속적으로 확인하고 있는데 정신 건강에 심각한 영향을 미치고 있습니다. 아버지는 제가 대부분 매일 밤 11시에 잔다고 생각하면서도 “너무 늦게” 자면서 제 자신을 돌보지 않는다고 생각하십니다. 하지만 그래, 내가 모든 일을 제대로 하고 있는데도 여드름이 점점 악화되는 이유를 누군가 도와줄 수 있나요?",
-        "image_url": "",
+        "image_url": "https://preview.redd.it/7z1ez8x4hwlg1.jpg?width=140&amp;height=105&amp;auto=webp&amp;s=7d0c3e5e38121687f29f2dba177002ca9437e54c",
         "categories": [
           "인식",
           "루틴"
         ],
-        "situation_note": "본문에서 사용자가 피부/위생 이슈의 원인을 추적하는 맥락이 확인됨",
-        "comment_note": "댓글 데이터가 제한적이라 본문 중심 해석",
+        "situation_note": "본문에서 사용자가 피부/위생 이슈 원인을 추적하는 맥락이 확인됨",
+        "comment_note": "전체 댓글에서 경험 공유와 대안 제안이 반복됨",
         "insight_notes": [
           "접촉면 위생과 트러블 연관 인식이 확인되어 문제정의 메시지 유효",
           "세탁/교체 주기 피로가 보여 간편 교체 가치 제안이 설득 포인트"
         ],
-        "comment_top5": []
+        "comment_top5": [
+          {
+            "body": "Get to a dermatologist ASAP",
+            "ups": 50,
+            "author": "Anonymousimpreg",
+            "body_ko": "빨리 피부과 가보세요"
+          },
+          {
+            "body": "I saw that you are going to a dermatologist. Listen to everything they say! They will likely put you on Accutane. Which brings me to my next point… I saw another comment saying you don’t use moisturizer. Acne often gets worse because of a compromised skin barrier. For example, when you have a cut on your hand how does it heal best? Keeping it moisturized.  My recommendation is a very very simple cleanser, salicylic acid toner, moisturizer WITH SPF during the day. Same thing at night, maybe azelaic or glycolic acid. But always use moisturizer unless you live in the jungle",
+            "ups": 46,
+            "author": "MiserablePrior2213",
+            "body_ko": "피부과에 가시는 걸 봤어요. 그들이 말하는 모든 것을 들어보세요! 그들은 아마도 당신에게 Accutane을 처방할 것입니다. 다음 요점으로 넘어가겠습니다... 모이스처라이저를 사용하지 않는다는 또 다른 댓글을 봤습니다. 여드름은 피부 장벽이 손상되어 악화되는 경우가 많습니다. 예를 들어, 손에 상처가 났을 때 어떻게 하면 가장 잘 낫나요? 촉촉하게 유지하세요.  제가 추천하는 것은 매우 간단한 클렌저, 살리실산 토너, 낮에는 SPF가 포함된 모이스처라이저입니다. 밤에도 마찬가지입니다. 아젤라산이나 글리콜산일 수도 있습니다. 하지만 정글에 살지 않는 이상 항상 보습제를 사용하세요"
+          },
+          {
+            "body": "Maybe ask the Dermatologist about Accutane. It can be effective before scarring sets in. It’s a very powerful oral drug.",
+            "ups": 37,
+            "author": "jshannplay",
+            "body_ko": "피부과 전문의에게 Accutane에 대해 물어보세요. 흉터가 생기기 전에 효과적일 수 있습니다. 매우 강력한 경구용 약물입니다."
+          },
+          {
+            "body": "you need accutane or an antibiotic or even both",
+            "ups": 36,
+            "author": "Ok-Economist2803",
+            "body_ko": "아큐테인이나 항생제 또는 둘 다 필요합니다"
+          },
+          {
+            "body": "To save time and money, consult a dermatologist early to prevent your acne from worsening.",
+            "ups": 34,
+            "author": "AcrobaticLyf",
+            "body_ko": "시간과 비용을 절약하려면 피부과 전문의와 조기에 상담하여 여드름이 악화되는 것을 예방하세요."
+          }
+        ]
       },
       {
         "id": "1r5xno4",
@@ -170,22 +205,57 @@
           "Tried accurate??",
           "Unfortunately, they allow those things to do anything. My deepest sympathy, and yes: if that child acts like this at this age, imagine what he'll do when he's 5 or 10. He'll be the classic bully who ends up beating someone up and they'll let him get over it because \"he's such a cute kid!\" Parents these days aren't worth shit."
         ],
-        "debate_top3": [],
+        "debate_top3": [
+          "I think the baby recognize something their mom has too and pointed it out. You are absolutely right, if the baby said blue eyes you wouldn’t have been ashamed so why be about acne ? It’s not a crime to have pimples. It’s just pimples.",
+          "Babies really do always go with the jugular. I have a lot of nephews and I’ve learned you just gotta fight fire with fire. I would have been like yeah well you’re a baby, diaper head, big head, etc. these all work less so when you’re at work but they’re fun to think of in your head.",
+          "If his mum said she also wears pimple patches, he was probably just excited that he saw someone else wearing something his mum wears, and lacked the words to describe it. I used to work in childcare and kids that age are rarely ever pointing things out for malicious reasons. They get super excited when they see things from others that they can relate to their own world.   You’re fine to be upset but next time try not to take it in a mocking, hurtful way because that’s not how it was meant. I had my acne pointed out by kids plenty of times and would have been a wreck if I let every instance get to me, but knowing they were just curious and interested helped a lot."
+        ],
         "key": "acne:1r5xno4",
         "title_ko": "2세 아이에게 굴욕을 당했습니다.",
-        "body_ko": "저는 식료품점에서 계산원으로 일하고 있습니다. 저는 28세이고 거의 20년 동안 여드름을 앓았습니다. 나는 거의 모든 것을 시도했지만 아무것도 작동하지 않습니다. 나는 이것이 내 운명이라는 것을 방금 받아들였습니다. 나는 피부 관리에 대한 조언을 구하는 것이 아닙니다. \n\n어쨌든, 오늘 직장에 엄마 아빠가 아기를 데리고 내 차선으로 오셨습니다. 아기는 아마 2 살이었나요? 몇 마디 말을 할 수 있을 만큼 나이가 들었지만 다른 일을 할 만큼 나이가 많지는 않습니다. 아버지는 식료품을 포장하고 있었고 나는 물건을 스캔하고 있었습니다. 엄마는 카트에 아기를 안고 거기 서 있었습니다. 아기가 나를 볼 수 있을 만큼 가까워지자마자 \"여드름! 여드름! 여드름! 왜 여드름이 났어? 여드름이 났어!\"라고 말하기 시작했습니다. 엄마가 방금 \"그래!\"라고 했어요. 그리고 \"그래 엄마도 그 패치를 입으셨어!\" 투명한 여드름 패치를 몇 개 붙이고 있었거든요. 그 아이는 멈추지 않을 거예요. 그 사람이 계속해서 그 말만 반복해서 하니까 저는 물러날 수밖에 없었어요. 나는 거기 서서 그것을 받아들일 수만은 없었다. 나는 아무 말도 하지 않았다. 방금 나가서 감독관에게 주문을 완료할 수 있는지, 잠시 시간이 걸릴지 물었습니다. \n\n나는 문자 그대로의 아기에게 화를 낼 수 없다는 것을 압니다. 나는 아이들이 때때로 잔인할 정도로 정직하다는 것을 알고 있습니다. 나에게 이런 일이 일어난 것은 이번이 처음도 아니다. 나도 그게 엄마 잘못이 아니라는 걸 알아요. \n\n제가 15살이었을 때 제 남동생은 2살, 4살 정도였습니다. 어느 날 여동생이 나에게 \"왜 얼굴에 보보머리가 있지? \"라고 말한 기억이 납니다. 나는 언젠가 이 문제에서 벗어날 것이라고 스스로 생각했습니다. 언젠가는 여드름이 나고 그때쯤이면 나도 깨끗한 피부를 갖게 될 것이다. 글쎄요, 13년이 지난 지금도 저는 여전히 여드름이 있습니다. 제 남동생은 14살과 16살인데 둘 다 피부가 흠잡을 데가 없어요. 나는 가게의 아기가 나에게 이 경험과 수년이 지난 후에도 여전히 여드름이 있다는 사실을 상기시켜 준 것 같습니다.\n\n이것은 호언 장담입니다. 나는 속상하다. 속상할 수밖에 없습니다.",
+        "body_ko": "저는 식료품점에서 계산원으로 일하고 있습니다. 저는 28세이고 거의 20년 동안 여드름을 앓았습니다. 나는 거의 모든 것을 시도했지만 아무것도 작동하지 않습니다. 나는 이것이 내 운명이라는 것을 방금 받아들였습니다. 나는 피부 관리에 대한 조언을 구하는 것이 아닙니다. \n\n어쨌든, 오늘 직장에 엄마 아빠가 아기를 데리고 내 차선으로 오셨습니다. 아기는 아마 2 살이었나요? 몇 마디 말을 할 수 있을 만큼 나이가 들었지만 다른 일을 할 만큼 나이가 많지는 않습니다. 아버지는 식료품을 포장하고 있었고 나는 물건을 스캔하고 있었습니다. 엄마는 카트에 아기를 안고 거기 서 있었습니다. 아기가 나를 볼 수 있을 만큼 가까워지자마자 \"여드름! 여드름! 여드름! 왜 여드름이 났어? 여드름이 났어!\"라고 말하기 시작했습니다. 엄마가 방금 \"그래!\"라고 했어요. 그리고 \"그래 엄마도 그 패치를 입으셨어!\" 투명한 여드름 패치를 몇 개 붙이고 있었거든요. 그 아이는 멈추지 않을 거예요. 그 사람이 계속해서 그 말만 반복해서 하니까 저는 물러날 수밖에 없었어요. 나는 거기 서서 그것을 받아들일 수만은 없었다. 나는 아무 말도 하지 않았다. 방금 나가서 감독관에게 주문을 완료할 수 있는지, 잠시 시간이 걸릴지 물었습니다. \n\n나는 문자 그대로의 아기에게 화를 낼 수 없다는 것을 압니다. 나는 아이들이 때때로 잔인할 정도로 정직하다는 것을 알고 있습니다. 나에게 이런 일이 일어난 것은 이번이 처음도 아니다. 알고보니 정말 그렇지 않더라구요",
         "image_url": "",
         "categories": [
           "인식",
           "루틴"
         ],
-        "situation_note": "본문에서 사용자가 피부/위생 이슈의 원인을 추적하는 맥락이 확인됨",
-        "comment_note": "댓글 데이터가 제한적이라 본문 중심 해석",
+        "situation_note": "본문에서 사용자가 피부/위생 이슈 원인을 추적하는 맥락이 확인됨",
+        "comment_note": "전체 댓글에서 경험 공유와 대안 제안이 반복됨",
         "insight_notes": [
           "접촉면 위생과 트러블 연관 인식이 확인되어 문제정의 메시지 유효",
           "세탁/교체 주기 피로가 보여 간편 교체 가치 제안이 설득 포인트"
         ],
-        "comment_top5": []
+        "comment_top5": [
+          {
+            "body": "I think the baby recognize something their mom has too and pointed it out. You are absolutely right, if the baby said blue eyes you wouldn’t have been ashamed so why be about acne ? It’s not a crime to have pimples. It’s just pimples.",
+            "ups": 103,
+            "author": "Miaous95",
+            "body_ko": "아기도 엄마가 갖고 있는 것을 알아보고 지적하는 것 같아요. 당신 말이 맞습니다. 아기가 파란 눈이라고 말했다면 부끄러워하지 않았을 텐데 왜 여드름에 대해 이야기합니까? 여드름이 나는 것은 범죄가 아닙니다. 그냥 여드름이에요."
+          },
+          {
+            "body": "Babies really do always go with the jugular. I have a lot of nephews and I’ve learned you just gotta fight fire with fire. I would have been like yeah well you’re a baby, diaper head, big head, etc. these all work less so when you’re at work but they’re fun to think of in your head.",
+            "ups": 43,
+            "author": "Lifes-a-lil-foggy",
+            "body_ko": "아기들은 실제로 항상 경정맥과 함께 움직입니다. 나는 조카가 많고 불은 불로 싸워야한다는 것을 배웠습니다. 나는 그랬을 것입니다. 당신은 아기이고, 기저귀 머리, 큰 머리 등입니다. 이것들은 모두 덜 작동하므로 직장에 있을 때 머리 속에 생각하는 것은 재미있습니다."
+          },
+          {
+            "body": "If his mum said she also wears pimple patches, he was probably just excited that he saw someone else wearing something his mum wears, and lacked the words to describe it. I used to work in childcare and kids that age are rarely ever pointing things out for malicious reasons. They get super excited when they see things from others that they can relate to their own world.   You’re fine to be upset but next time try not to take it in a mocking, hurtful way because that’s not how it was meant. I had my acne pointed out by kids plenty of times and would have been a wreck if I let every instance get to me, but knowing they were just curious and interested helped a lot.",
+            "ups": 32,
+            "author": "Anxiety_bunni",
+            "body_ko": "그의 엄마가 자신도 여드름 패치를 하고 있다고 말했다면, 그는 아마도 다른 사람이 자신의 엄마가 입고 있는 옷을 입고 있는 것을 보고 기뻐서 그것을 설명할 말이 부족했을 것입니다. 나는 보육원에서 일했는데 그 나이의 아이들은 악의적 인 이유로 물건을 지적하는 경우가 거의 없습니다. 그들은 자신의 세계와 관련될 수 있는 다른 사람들의 것들을 볼 때 매우 흥분합니다.   화를 내는 것은 괜찮지만 다음번에는 그런 뜻이 아니기 때문에 조롱하고 상처 주는 방식으로 받아들이지 마십시오. 나는 아이들이 내 여드름을 여러 번 지적했고 모든 사례를 나에게 전달하면 난파되었을 것입니다. 그러나 그들이 단지 호기심과 관심이 있다는 것을 아는 것은 많은 도움이 되었습니다."
+          },
+          {
+            "body": "I worked as a student teacher in high school for a second grade class. I went every day as one of my class periods. One of the kiddos asked in front of the whole class and my mentor teach what was all over my face. I was mortified. I explained I had acne and it’s really normal for older people to get it. It didn’t mean I was dirty or bad, it was just my skin. We talked about other conditions like some kids needing glasses or when our stomach hurts and we take medicine. It was a great teachable moment.",
+            "ups": 30,
+            "author": "glacinda",
+            "body_ko": "저는 고등학교 2학년 학생교사로 일했습니다. 나는 수업 시간 중 하나로 매일 갔다. 아이들 중 한 명이 학급 전체 앞에서 질문을 했고 멘토는 내 얼굴에 나타난 것을 가르쳐주었습니다. 나는 창피했다. 나는 여드름이 있었고 노인들이 여드름이 나는 것은 정말 정상이라고 설명했습니다. 내가 더럽거나 나쁘다는 뜻이 아니라 단지 내 피부 때문이었습니다. 우리는 안경이 필요한 아이들이나 배가 아파서 약을 복용하는 경우와 같은 다른 상태에 대해서도 이야기했습니다. 배울 수 있는 좋은 순간이었습니다."
+          },
+          {
+            "body": "I know how horrible this feels but honestly, I think the mother reacted in a good way somehow? I mean, she should apologize to you but if she hushed the kid, they would learn that acne is something to be ashamed of or not spoken about and honestly, it shouldn't be. Lots of people are dealing with skin issues - I had severe acne myself and have hormonal problems. I feel like most people in the world are having skin issues and the few that don't are either having genes like that or have facetuned photos.  Kids are just like that, if someone is of a different skin colour than them, is bald, long hair, glasses, acne, has big ears, has small ears, anything at all, they will point it out as something curious to them. I know it hurts though, but it shouldn't be something to be ashamed of. For me, it's just a part of how I look, just like my hair colour, shape of eyes or nose or anything. If you have blue eyes and a kid was saying \"blue eyes, blue eyes, blue eyes!\" it wouldn't be something shameful, right?",
+            "ups": 28,
+            "author": "Shark_L0V3R",
+            "body_ko": "얼마나 끔찍한 기분인지는 알지만 솔직히 엄마가 어쩐지 좋은 반응을 보인 것 같은데? 내 말은, 그녀가 당신에게 사과해야 하지만 그녀가 아이를 조용히 시키면 그들은 여드름이 부끄럽거나 말하지 말아야 할 것이고 솔직히 말해서는 안 된다는 것을 알게 될 것입니다. 많은 사람들이 피부 문제로 고민하고 있습니다. 저도 심각한 여드름이 있었고 호르몬 문제도 있었습니다. 나는 세계의 대부분의 사람들이 피부 문제를 가지고 있고, 그렇지 않은 소수의 사람들은 그런 유전자를 가지고 있거나 얼굴을 보정한 사진을 가지고 있다고 생각합니다.  아이들도 그렇잖아요. 피부색이 다르거나, 대머리이거나, 머리가 길거나, 안경이 있거나, 여드름이 있거나, 귀가 크거나, 귀가 작거나, 뭐든지 신기하다고 지적할 거예요. 아픈 건 알지만 부끄러워할 일은 아니다. 나에게 있어 그것은 머리 색깔, 눈이나 코 모양 등 내 외모의 일부일 뿐입니다. 당신이 파란 눈을 가지고 있는데 아이가 \"파란 눈, 파란 눈, 파란 눈!\"이라고 말한다면요. 부끄러운 일은 아니겠죠?"
+          }
+        ]
       },
       {
         "id": "1r9l7pj",
@@ -233,22 +303,57 @@
           "I can't believe she poked you like that. If she knew anything about acne, she would know her dirty nails can inflame the problem. I'm so sorry. I would never go back, and make a review for her location. F that noise. If she wants to help people, she can make nice suggestions like hey btw we also do these services, let us know if you want them. IMO she was trying to sell, not really help.",
           "I'm a nail tech &amp; esthetician. It's her job to upsell u and u shouldn't be embarrassed cause they have seen at all. Esp in the waxing room! Sounds like she was trying to help."
         ],
-        "debate_top3": [],
+        "debate_top3": [
+          "I hope you gave them 1 star for giving you unsolicited advice. That was rude, disgusting and unprofessional of them.",
+          "gross. they were probably trying to sell but either way thats disgusting and she has no social awareness at all.",
+          "I have found these interactions are common in places run by foreigners. They don’t understand how rude it comes off. They should learn and adapt."
+        ],
         "key": "acne:1r9l7pj",
         "title_ko": "오늘 네일샵에서 굴욕을 당했어요",
-        "body_ko": "나는 엄마를 데리고 페디큐어를 받으러 나갔고, 즐거운 시간이 될 것 같았던 시간이 나에게는 너무나 당황스러운 순간으로 바뀌었습니다. \n\n눈썹 정리가 필요해서 실로 그려달라고 요청했어요. 의자에 앉았더니 실을 끼우려는 여자가 맨손가락으로 내 뺨에 난 여드름을 하나하나 쿡 찌르며 \"얼굴 좀 받으러 오세요. 그러면 여드름이 다 없어질 거예요\"라고 말하더군요. 요즘 피부가 유난히 힘든데, 10년 넘게 여드름으로 고생했지만 왠지 지금은 역대 최악인 것 같아요. 그녀가 찌르고 찌르는 발진도 매우 고통스럽고 염증이 생겼으며 나는 그녀가 그렇게 원치 않는 맨발의 뾰족한 손톱을 파고 들었다는 것을 믿을 수 없었습니다. 나는 너무 놀라서 너무 당황스러워서 아무 말도 하지 않았고, 그녀는 내 눈썹을 꿰맨다. \n\n그러다가 우리가 떠날 때 이곳은 새로운 고객에게 미니 선물 가방을 나눠주는 것 같아요. 그래서 그녀는 나에게 딸기향 마스크 팩이 들어있는 가방을 주면서 \"여드름을 위해 여기\"라고 말했습니다. \n\n너무 예민하면 안 될 것 같은데 요즘 피부가 너무 안 좋아져서 나중에 꽤 속상했어요. 엄마한테는 아무 말도 안 하고, 함께 즐거운 하루를 망치지 않으려고 그냥 웃어 넘겼어요. 하지만 이런 일이 일어난 것은 이번이 처음이 아니다. 메이크업 카운터, 매장 등에서 이런 일이 일어났으며 저는 결코 이러한 말이나 행동을 유도하지 않습니다. 그녀가 알았다면 \\*아큐테인\\*만 빼고 모든 것을 시도했기 때문에 나는 좌절감을 느낍니다. 그리고 피부가 보입니다. 왜 낯선 사람들은 단지 피부라는 이유만으로 의학적 조언을 제공할 수 있다고 생각합니까? 죄송해요, 이 말을 꼭 해야 했어요.",
+        "body_ko": "나는 엄마를 데리고 페디큐어를 받으러 나갔고, 즐거운 시간이 될 것 같았던 시간이 나에게는 너무나 당황스러운 순간으로 바뀌었습니다. \n\n눈썹 정리가 필요해서 실로 그려달라고 요청했어요. 의자에 앉았더니 실을 끼우려는 여자가 맨손가락으로 내 뺨에 난 여드름을 하나하나 쿡 찌르며 \"얼굴 좀 받으러 오세요. 그러면 여드름이 다 없어질 거예요\"라고 말하더군요. 요즘 피부가 유난히 힘든데, 10년 넘게 여드름으로 고생했지만 왠지 지금은 역대 최악인 것 같아요. 그녀가 찌르고 찌르는 발진도 매우 고통스럽고 염증이 생겼으며 나는 그녀가 그렇게 원치 않는 맨발의 뾰족한 손톱을 파고 들었다는 것을 믿을 수 없었습니다. 나는 너무 놀라서 너무 당황스러워서 아무 말도 하지 않았고, 그녀는 내 눈썹을 꿰맨다. \n\n그러다가 우리가 떠날 때 이곳은 새로운 고객에게 미니 선물 가방을 나눠주는 것 같아요. 그래서 그녀는 나에게 딸기향 마스크 팩이 들어있는 가방을 주면서 \"여드름을 위해 여기\"라고 말했습니다. \n\n너무 예민하면 안 될 것 같은데 요즘 피부가 너무 안 좋아져서 나중에 꽤 속상했어요. 엄마한테는 아무말도 안했는데",
         "image_url": "",
         "categories": [
           "인식",
           "루틴"
         ],
-        "situation_note": "본문에서 사용자가 피부/위생 이슈의 원인을 추적하는 맥락이 확인됨",
-        "comment_note": "댓글 데이터가 제한적이라 본문 중심 해석",
+        "situation_note": "본문에서 사용자가 피부/위생 이슈 원인을 추적하는 맥락이 확인됨",
+        "comment_note": "전체 댓글에서 경험 공유와 대안 제안이 반복됨",
         "insight_notes": [
           "접촉면 위생과 트러블 연관 인식이 확인되어 문제정의 메시지 유효",
           "세탁/교체 주기 피로가 보여 간편 교체 가치 제안이 설득 포인트"
         ],
-        "comment_top5": []
+        "comment_top5": [
+          {
+            "body": "I hope you gave them 1 star for giving you unsolicited advice. That was rude, disgusting and unprofessional of them.",
+            "ups": 38,
+            "author": "hot_and_chill",
+            "body_ko": "원치 않는 조언을 해주셔서 별 1개를 주셨기를 바랍니다. 그것은 무례하고, 역겹고, 비전문적이었습니다."
+          },
+          {
+            "body": "gross. they were probably trying to sell but either way thats disgusting and she has no social awareness at all.",
+            "ups": 34,
+            "author": "elgraphicdesigner",
+            "body_ko": "역겨운. 아마 팔려고 한 것 같지만 어느 쪽이든 그것은 역겹고 그녀는 사회적 인식이 전혀 없습니다."
+          },
+          {
+            "body": "I have found these interactions are common in places run by foreigners. They don’t understand how rude it comes off. They should learn and adapt.",
+            "ups": 33,
+            "author": "BrandonLouis527",
+            "body_ko": "나는 이러한 상호 작용이 외국인이 운영하는 장소에서 흔히 발생한다는 것을 알았습니다. 그들은 그것이 얼마나 무례한 일인지 이해하지 못합니다. 그들은 배우고 적응해야 합니다."
+          },
+          {
+            "body": "Sorry this happened to you! I’ve had acne since I was really little still dealing with it as an adult. I hate when people try to tell you what they think will work for you like you haven’t tried literally EVERYTHING… or drink more water!!! People who’ve never had skin problems will never understand what it’s like and how it makes you feel. Acne sucks hun and I’m dealing with a bad breakout as well. Just remember your acne will go away eventually but being a decent human being..is rare. I’m sure your personality outshines it all. Hope you feel better!!",
+            "ups": 29,
+            "author": "LilMissBaddi",
+            "body_ko": "미안해요 이런 일이 일어났어요! 저는 어렸을 때부터 여드름이 있어서 성인이 되어서도 여전히 문제를 겪고 있습니다. 나는 사람들이 당신이 말 그대로 모든 것을 시도하지 않은 것처럼 당신에게 효과가 있을 것이라고 생각하는 것이 무엇인지 말하려고 하거나 물을 더 많이 마시려고 하는 것이 싫습니다!!! 피부 문제를 겪어본 적이 없는 사람들은 그것이 어떤 것인지, 그것이 당신에게 어떤 느낌을 주는지 결코 이해하지 못할 것입니다. 여드름은 짜증나고 나도 심한 발진을 겪고 있습니다. 여드름은 결국 사라질 것이라는 점을 기억하십시오. 그러나 괜찮은 인간이 되는 것은 드뭅니다. 나는 당신의 성격이 모든 것보다 빛난다고 확신합니다. 기분이 좋아지길 바랍니다!!"
+          },
+          {
+            "body": "I think she probably meant well, but that's stillreally, really shitty. Acne is a medical condition and commenting on it is awful",
+            "ups": 28,
+            "author": "amethyst-chimera",
+            "body_ko": "내 생각엔 그녀가 좋은 의도로 한 말인 것 같은데, 그래도 그건 정말, 정말 엉뚱한 짓이야. 여드름은 질병이고 그것에 대해 언급하는 것은 끔찍합니다"
+          }
+        ]
       },
       {
         "id": "1rl7g6g",
@@ -288,22 +393,57 @@
           "i have been on isotret for 4months 20mg a day. why am i still getting cyst acne. its so frustrating cus its so expensive and im getting acne scars.",
           "Love this!"
         ],
-        "debate_top3": [],
+        "debate_top3": [
+          "This reeks of AI",
+          "You’re a dermatologist but you can’t write your own post? Why would I be bothered to read something which someone couldn’t be bothered to write",
+          "GPT"
+        ],
         "key": "acne:1rl7g6g",
         "title_ko": "여기 피부과 의사 - 여드름 치료가 \"효과가 없는\" 가장 일반적인 이유",
-        "body_ko": "여기 피부과.\n\n\n\n내가 진료소에서 끊임없이 보는 것 중 하나는 사람들이 다음과 같이 말하는 것입니다.\n\n\"나는 모든 것을 시도했지만 아무것도 작동하지 않았습니다.\"\n\n대부분의 경우 문제는 약물이 아니라 일상의 구조입니다.\n\n\n\n여드름 루틴이 실패하는 3가지 가장 큰 이유:\n\n\n\n1. 한 번에 너무 많은 활동을 시작하는 경우  \n\n벤조일퍼옥사이드, 아다팔렌, 각질제거제를 함께 사용하기 시작하면 자극이 급상승하고 피부 장벽이 무너집니다.\n\n\n\n2. 제품을 너무 빨리 전환하는 것  \n\n대부분의 여드름 치료는 효과가 있는지 판단하기까지 8~12주가 걸립니다. 많은 루틴이 4~6주차에 중단됩니다.\n\n\n\n3. 피부가 지성이어서 보습제를 생략한다  \n\n아이러니하게도 장벽 손상은 염증과 오일 생성을 증가시킵니다.\n\n\n\n많은 사람들에게 적합한 간단한 구조:\n\n\n\n오전  \n\n• 순한 클렌저  \n\n• 벤조일 퍼옥사이드(얇은 층 또는 세척)  \n\n• 보습제  \n\n• 자외선 차단제  \n\n\n\n오후  \n\n• 순한 클렌저  \n\n• 보습제  \n\n• 아다팔렌(완두콩 크기)\n\n\n\n일주일에 2-3일 밤에만 레티노이드를 시작하고 천천히 증가시키십시오.\n\n\n\n여드름 치료는 일반적으로 \"완벽한 제품을 찾는 것\"보다는 피부가 충분히 오랫동안 견딜 수 있는 루틴을 구축하는 것입니다.\n\n\n\n사람들이 원하면 다음과 같이 설명할 수도 있습니다.\n\n• 레티노이드 제거 vs 자극  \n\n• 항생제가 실제로 도움이 되는 경우  \n\n• 호르몬성 여드름에 다른 접근이 필요한 경우",
+        "body_ko": "여기 피부과.\n\n\n\n내가 진료소에서 끊임없이 보는 것 중 하나는 사람들이 다음과 같이 말하는 것입니다.\n\n\"나는 모든 것을 시도했지만 아무것도 작동하지 않았습니다.\"\n\n대부분의 경우 문제는 약물이 아니라 일상의 구조입니다.\n\n\n\n여드름 루틴이 실패하는 3가지 가장 큰 이유:\n\n\n\n1. 한 번에 너무 많은 활동을 시작하는 경우  \n\n벤조일퍼옥사이드, 아다팔렌, 각질제거제를 함께 사용하기 시작하면 자극이 급상승하고 피부 장벽이 무너집니다.\n\n\n\n2. 제품을 너무 빨리 전환하는 것  \n\n대부분의 여드름 치료는 효과가 있는지 판단하기까지 8~12주가 걸립니다. 많은 루틴이 4~6주차에 중단됩니다.\n\n\n\n3. 피부가 지성이어서 보습제를 생략한다  \n\n아이러니하게도 장벽 손상은 염증과 오일 생성을 증가시킵니다.\n\n\n\n많은 사람들에게 적합한 간단한 구조:\n\n\n\n오전  \n\n• 순한 클렌저  \n\n• 벤조일 퍼옥사이드(얇은 층 또는 세척)  \n\n• 보습제  \n\n• 자외선 차단제  \n\n\n\n오후  \n\n• 순한 클렌저  \n\n• 보습제  \n\n• 아다팔렌(완두콩 크기)\n\n\n\n일주일에 2-3일 밤에만 레티노이드를 시작하고 천천히 증가시키십시오.\n\n\n\n여드름 치료는 일반적으로 \"완벽한 제품을 찾는 것\"보다는 피부가 충분히 오랫동안 견딜 수 있는 루틴을 구축하는 것입니다.\n\n\n\n사람들이 원하면 다음과 같이 설명할 수도 있습니다.",
         "image_url": "",
         "categories": [
           "인식",
           "루틴"
         ],
-        "situation_note": "본문에서 사용자가 피부/위생 이슈의 원인을 추적하는 맥락이 확인됨",
-        "comment_note": "댓글 데이터가 제한적이라 본문 중심 해석",
+        "situation_note": "본문에서 사용자가 피부/위생 이슈 원인을 추적하는 맥락이 확인됨",
+        "comment_note": "전체 댓글에서 경험 공유와 대안 제안이 반복됨",
         "insight_notes": [
           "접촉면 위생과 트러블 연관 인식이 확인되어 문제정의 메시지 유효",
           "세탁/교체 주기 피로가 보여 간편 교체 가치 제안이 설득 포인트"
         ],
-        "comment_top5": []
+        "comment_top5": [
+          {
+            "body": "This reeks of AI",
+            "ups": 41,
+            "author": "Boomersawce",
+            "body_ko": "이거 AI 냄새난다"
+          },
+          {
+            "body": "You’re a dermatologist but you can’t write your own post? Why would I be bothered to read something which someone couldn’t be bothered to write",
+            "ups": 23,
+            "author": "Purlasstor",
+            "body_ko": "피부과 의사인데 글을 직접 쓸 수가 없나요? 누군가가 귀찮게 쓸 수 없는 것을 내가 왜 읽으려고 하겠습니까?"
+          },
+          {
+            "body": "GPT",
+            "ups": 22,
+            "author": "seahorsesaviour",
+            "body_ko": "GPT"
+          },
+          {
+            "body": "Hormonal please",
+            "ups": 22,
+            "author": "moonhattan",
+            "body_ko": "호르몬 주세요"
+          },
+          {
+            "body": "hormonal please !!!",
+            "ups": 16,
+            "author": "moss_gxrl",
+            "body_ko": "호르몬주세요 !!!"
+          }
+        ]
       },
       {
         "id": "1ribzj5",
@@ -355,22 +495,57 @@
           "i think you need to exfoliate twice or thrice a week. and use a salicylic cleanser.",
           "Fiber!! Read plant powered plus and start eating 35+ grams of fiber a day. My acne completely healed in a few weeks…  No accutane, no treating symptoms, but heal the gut!"
         ],
-        "debate_top3": [],
+        "debate_top3": [
+          "just wanted to say u look cute regardless!",
+          "#accutane",
+          "Please see a dermatologist, they may suggest accutane. Hang in there, see the Dr they can help you. It will get better. ♥️"
+        ],
         "key": "acne:1ribzj5",
         "title_ko": "생각?",
         "body_ko": "저는 모이스처라이저와 함께 하루에 두 번씩 클렌저를 꾸준히 사용하고 있습니다. 지난 두 달 동안 여드름이 더 심해졌는데도 제 일상에는 아무런 변화가 없는 것 같습니다.",
-        "image_url": "",
+        "image_url": "https://preview.redd.it/vp4haam2limg1.jpeg?auto=webp&s=1e3337d0bc2cc7c3e1116af49436652f99f48b20",
         "categories": [
           "인식",
           "루틴"
         ],
-        "situation_note": "본문에서 사용자가 피부/위생 이슈의 원인을 추적하는 맥락이 확인됨",
-        "comment_note": "댓글 데이터가 제한적이라 본문 중심 해석",
+        "situation_note": "본문에서 사용자가 피부/위생 이슈 원인을 추적하는 맥락이 확인됨",
+        "comment_note": "전체 댓글에서 경험 공유와 대안 제안이 반복됨",
         "insight_notes": [
           "접촉면 위생과 트러블 연관 인식이 확인되어 문제정의 메시지 유효",
           "세탁/교체 주기 피로가 보여 간편 교체 가치 제안이 설득 포인트"
         ],
-        "comment_top5": []
+        "comment_top5": [
+          {
+            "body": "just wanted to say u look cute regardless!",
+            "ups": 16,
+            "author": "linabina24",
+            "body_ko": "그냥 네가 어쨌든 귀여워 보인다고 말하고 싶었어!"
+          },
+          {
+            "body": "#accutane",
+            "ups": 14,
+            "author": "Used_Ad7899",
+            "body_ko": "#아큐테인"
+          },
+          {
+            "body": "Please see a dermatologist, they may suggest accutane. Hang in there, see the Dr they can help you. It will get better. ♥️",
+            "ups": 13,
+            "author": "JewelsSC",
+            "body_ko": "피부과 전문의에게 문의하세요. 그들은 아큐테인을 권할 수도 있습니다. 조금만 기다려주세요. 박사님이 도와드릴 수 있으니 만나보세요. 좋아질 것입니다. ♥️"
+          },
+          {
+            "body": "Accutane my dude. When I was on it it dried my skin out like crazy. And I couldn’t eat sugar. But it works!",
+            "ups": 11,
+            "author": "JasonWPG",
+            "body_ko": "어큐테인 내 친구. 내가 그것을 바르면 피부가 미친 듯이 건조해졌습니다. 그리고 설탕도 못 먹었어요. 하지만 작동합니다!"
+          },
+          {
+            "body": "Over-cleansing can also worsen acne.",
+            "ups": 8,
+            "author": "EntranceTop9204",
+            "body_ko": "지나치게 클렌징하면 여드름이 악화될 수도 있습니다."
+          }
+        ]
       },
       {
         "id": "1rg09fd",
@@ -395,20 +570,57 @@
           "What are the foods that triggered your acne?",
           "I'm jealous nice job 😭"
         ],
-        "debate_top3": [],
+        "debate_top3": [
+          "This is amazing, proud of you",
+          "You're beautiful 💕",
+          "Please girlll how did you figure out what foods and etc? Did you see a specialist? I am 14 days no sugar no dairy low glycemic diet I saw online you can purge and also it could take 21-40 day to see improvement"
+        ],
         "key": "acne:1rg09fd",
         "title_ko": "여드름이 난지 5년이 지나서 점점 나아지기 시작했어요!",
         "body_ko": "사진 1+2개 - 2025년 11월 9일\n\n3+4 - 2026년 1월 29일",
-        "image_url": "",
+        "image_url": "https://preview.redd.it/zg3437hypzlg1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=acca1933cc6012d2ba18ee0ebe5b876bfa0c15b9",
         "categories": [
-          "인식"
+          "인식",
+          "루틴"
         ],
-        "situation_note": "본문에서 사용자가 피부/위생 이슈의 원인을 추적하는 맥락이 확인됨",
-        "comment_note": "댓글 데이터가 제한적이라 본문 중심 해석",
+        "situation_note": "본문에서 사용자가 피부/위생 이슈 원인을 추적하는 맥락이 확인됨",
+        "comment_note": "전체 댓글에서 경험 공유와 대안 제안이 반복됨",
         "insight_notes": [
-          "접촉면 위생과 트러블 연관 인식이 확인되어 문제정의 메시지 유효"
+          "접촉면 위생과 트러블 연관 인식이 확인되어 문제정의 메시지 유효",
+          "세탁/교체 주기 피로가 보여 간편 교체 가치 제안이 설득 포인트"
         ],
-        "comment_top5": []
+        "comment_top5": [
+          {
+            "body": "This is amazing, proud of you",
+            "ups": 3,
+            "author": "Michaelking303",
+            "body_ko": "정말 대단해요, 당신이 자랑스러워요"
+          },
+          {
+            "body": "You're beautiful 💕",
+            "ups": 3,
+            "author": "alleneres",
+            "body_ko": "당신은 아름답습니다 💕"
+          },
+          {
+            "body": "Please girlll how did you figure out what foods and etc? Did you see a specialist? I am 14 days no sugar no dairy low glycemic diet I saw online you can purge and also it could take 21-40 day to see improvement",
+            "ups": 2,
+            "author": "Valuable_Client9843",
+            "body_ko": "어떤 음식 등을 어떻게 알아냈나요? 전문가를 만나보셨나요? 저는 14일 동안 무설탕, 유제품 저혈당 식단을 유지하고 있습니다. 온라인에서 본 바에 따르면 제거할 수 있으며 개선되는 데 21~40일이 걸릴 수 있습니다."
+          },
+          {
+            "body": "**Please reply to this comment with any pertinent information that may help others answer your questions.**    Your skin type, current routine and duration, past routines/products/ingredients tried and duration of usage, etc.   *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/acne) if you have any questions or concerns.*",
+            "ups": 1,
+            "author": "AutoModerator",
+            "body_ko": "**다른 사람들이 귀하의 질문에 답변하는 데 도움이 될 수 있는 관련 정보를 이 댓글에 회신해 주세요.** 귀하의 피부 유형, 현재 루틴 및 지속 시간, 과거에 시도한 루틴/제품/성분 및 사용 기간 등. *저는 봇이며 이 작업은 자동으로 수행되었습니다. 질문이나 우려 사항이 있는 경우 [이 하위 레딧의 중재자에게 문의](/message/compose/?to=/r/acne)하세요.*"
+          },
+          {
+            "body": "What's your routine currently? How are you making progress?",
+            "ups": 1,
+            "author": "godot527",
+            "body_ko": "현재 당신의 일상은 무엇입니까? 어떻게 발전하고 있나요?"
+          }
+        ]
       },
       {
         "id": "1revhxb",
@@ -444,20 +656,57 @@
           "Você é um gato, você foi atrás do Roacutan?",
           "Accutane"
         ],
-        "debate_top3": [],
+        "debate_top3": [
+          "If it makes you feel better your actually good looking",
+          "Acne is temporary. Btw ur cute asl!",
+          "If you just started accutane, your skin is gonna get worse before it gets better. Accutane has a pretty gnarly purging stage for the first month or so, but after ur skin will start to clear and the redness will fade."
+        ],
         "key": "acne:1revhxb",
         "title_ko": "내 피부에 대해 긍정적인 느낌을 가질 수 있는 방법이 있나요?",
         "body_ko": "저는 호르몬성 여드름 풀미난(Acne Fulminans)을 앓고 있으며 현재 아큐테인(accutane)을 복용 중이며 6개월이 남았습니다. 피부가 좋아지는 방법이 있나요?",
         "image_url": "",
         "categories": [
-          "인식"
+          "인식",
+          "루틴"
         ],
-        "situation_note": "본문에서 사용자가 피부/위생 이슈의 원인을 추적하는 맥락이 확인됨",
-        "comment_note": "댓글 데이터가 제한적이라 본문 중심 해석",
+        "situation_note": "본문에서 사용자가 피부/위생 이슈 원인을 추적하는 맥락이 확인됨",
+        "comment_note": "전체 댓글에서 경험 공유와 대안 제안이 반복됨",
         "insight_notes": [
-          "접촉면 위생과 트러블 연관 인식이 확인되어 문제정의 메시지 유효"
+          "접촉면 위생과 트러블 연관 인식이 확인되어 문제정의 메시지 유효",
+          "세탁/교체 주기 피로가 보여 간편 교체 가치 제안이 설득 포인트"
         ],
-        "comment_top5": []
+        "comment_top5": [
+          {
+            "body": "If it makes you feel better your actually good looking",
+            "ups": 17,
+            "author": "thatgaybtch",
+            "body_ko": "기분이 좋아지면 진짜 잘생겼어"
+          },
+          {
+            "body": "Acne is temporary. Btw ur cute asl!",
+            "ups": 16,
+            "author": "ThatOneSweetheart",
+            "body_ko": "여드름은 일시적입니다. 그런데 당신은 귀엽군요!"
+          },
+          {
+            "body": "If you just started accutane, your skin is gonna get worse before it gets better. Accutane has a pretty gnarly purging stage for the first month or so, but after ur skin will start to clear and the redness will fade.",
+            "ups": 16,
+            "author": "Ill-Floor1865",
+            "body_ko": "아큐테인을 막 시작했다면 피부가 좋아지기 전에 악화될 것입니다. Accutane은 처음 한 달 정도는 꽤 심한 퍼지 단계를 거치지만, 그 후에는 피부가 맑아지고 붉은기가 사라지기 시작합니다."
+          },
+          {
+            "body": "You're a really good looking guy. Accutane will greatly help. I'm 10 weeks in and I'm slowly gaining my confidence back. I wish you the best!",
+            "ups": 15,
+            "author": "BeautifulWeak3971",
+            "body_ko": "당신은 정말 잘 생긴 사람이에요. 어큐테인이 큰 도움이 될 것입니다. 이제 10주차가 되었고 천천히 자신감을 되찾고 있습니다. 나는 당신에게 최선을 기원합니다!"
+          },
+          {
+            "body": "It gets better man. I was about where you’re at not long ago - now I have 20 days left in my course, and I haven’t had a pimple in 6 months. I couldn’t hype myself up when I was purging, but I could definitely remind myself it’s temporary.",
+            "ups": 12,
+            "author": "rubbertramp2000",
+            "body_ko": "점점 좋아지네요. 나는 얼마 전까지만 해도 당신이 있는 곳에 있었습니다. 이제 내 코스가 20일 남았고 6개월 동안 여드름이 나지 않았습니다. 퍼지를 할 때 나 자신을 과대평가할 수는 없었지만 그것이 일시적이라는 것을 분명히 상기할 수 있었습니다."
+          }
+        ]
       },
       {
         "id": "1rjahjm",
@@ -485,20 +734,57 @@
           "You’ve been visited girl",
           "yeah clearly nose taping isnt good for your skin. Sometimes when I leave a bandaid on for too long my skin forms a rash. Maybe your skin is reacting to the adhesive"
         ],
-        "debate_top3": [],
+        "debate_top3": [
+          "Don't you DARE ask to join in my reigndeer games bro😭✌️",
+          "Could it be a reaction to the adhesive? I would consider applying one of the strips on your wrist overnight to see if it produces irritation.",
+          "I’ve gotten these tiny white pimples all over my face a few times many years ago. Also have oily skin. For me it was when my skin feels extra stripped of moisture and gets really itchy. It resolved itself after layering lots of moisturizer with Vaseline."
+        ],
         "key": "acne:1rjahjm",
         "title_ko": "기괴한 탈출",
         "body_ko": "어젯밤에 나는 코 테이핑을 시도했습니다(코를 슬리밍하는 데 분명히 좋은 것으로 온라인에서 본 것 – 극단적인 것은 아닙니다. 문자 그대로 단지 반창고로 코 아랫부분과 옆면, 그리고 코끝 아래를 가로지르는 것뿐이었습니다—) 오늘 아침 너무 바빠서 테이프를 떼어낸 후에는 이런 현상을 눈치채지 못했습니다. 집에 와서야 발견하고 완전 충격을 받았습니다. 내 코는 하루 종일 매우 아팠지만 id는 날씨가 좋지 않았기 때문이라고 생각했습니다. 테이프가 내 코에 가한 압력이 기본적으로 모든 피지(그리고 나는 매우 기름진 사람)를 그 한 곳에 모이게 만들었다고 가정하고 있습니다. 폭발하면서 터지나요? 내 코는 말 그대로 밝은 빨간색이고 코 아래쪽에 작은 여드름이 12개(세어지고 있음)가 있습니다. 그렇게 작고 그 양이 많은 것을 보니 정말 이상합니다. 일반적으로 한 부위에 여드름이 많이 나면 피부에 짙은 붉은 반점이 생기며, 표면에 나타나는 노란색 반점은 아닙니다. 이상해 응",
-        "image_url": "",
+        "image_url": "https://preview.redd.it/r0wg94pa6qmg1.jpeg?auto=webp&s=108e2e17128bb292c7b6887954e20ac87aaaf71c",
         "categories": [
-          "인식"
+          "인식",
+          "루틴"
         ],
-        "situation_note": "본문에서 사용자가 피부/위생 이슈의 원인을 추적하는 맥락이 확인됨",
-        "comment_note": "댓글 데이터가 제한적이라 본문 중심 해석",
+        "situation_note": "본문에서 사용자가 피부/위생 이슈 원인을 추적하는 맥락이 확인됨",
+        "comment_note": "전체 댓글에서 경험 공유와 대안 제안이 반복됨",
         "insight_notes": [
-          "접촉면 위생과 트러블 연관 인식이 확인되어 문제정의 메시지 유효"
+          "접촉면 위생과 트러블 연관 인식이 확인되어 문제정의 메시지 유효",
+          "세탁/교체 주기 피로가 보여 간편 교체 가치 제안이 설득 포인트"
         ],
-        "comment_top5": []
+        "comment_top5": [
+          {
+            "body": "Don't you DARE ask to join in my reigndeer games bro😭✌️",
+            "ups": 77,
+            "author": "SilliestFella",
+            "body_ko": "감히 내 레인디어 게임에 참여해달라고 요청하지 마세요 😭✌️"
+          },
+          {
+            "body": "Could it be a reaction to the adhesive? I would consider applying one of the strips on your wrist overnight to see if it produces irritation.",
+            "ups": 66,
+            "author": "murmaider10000",
+            "body_ko": "접착제에 대한 반응일까요? 손목에 스트립 중 하나를 밤새 붙여서 자극이 나타나는지 확인하는 것이 좋습니다."
+          },
+          {
+            "body": "I’ve gotten these tiny white pimples all over my face a few times many years ago. Also have oily skin. For me it was when my skin feels extra stripped of moisture and gets really itchy. It resolved itself after layering lots of moisturizer with Vaseline.",
+            "ups": 39,
+            "author": "maybtmrw",
+            "body_ko": "나는 몇 년 전에 얼굴 전체에 작은 흰색 여드름이 생겼습니다. 또한 지성 피부를 가지고 있습니다. 제 경우에는 피부에 수분이 많이 빠져나가고 정말 가렵게 느껴질 때였습니다. 바셀린과 보습제를 듬뿍 바르고 나니 저절로 해결되었습니다."
+          },
+          {
+            "body": "A similar thing happened to me on my head.   TMI: avoid reading if a bit squeamish or eating:   Here's what had happened: I wrapped my head, and apparently trapped buildup on my skin on a specific part of my head. When I removed the wrap the next day, there was a huge, painful, red bump on my head with about 4-5 smaller whiteheads sprouting from it. I applied a pimple patch, and when I removed the patch it left a few craters that scabbed over.",
+            "ups": 16,
+            "author": "SH4D0WSTAR",
+            "body_ko": "내 머리에도 비슷한 일이 일어났습니다.   TMI: 조금 시끄러우면 책을 읽지 않거나 식사를 하지 마십시오. 발생한 상황은 다음과 같습니다. 머리를 감았더니 머리의 특정 부분에 피부에 쌓인 덩어리가 갇힌 것 같습니다. 다음날 랩을 떼어냈을 때 머리에 거대하고 고통스러운 붉은 돌기가 생겼고 거기에서 약 4~5개의 작은 화이트헤드가 돋아났습니다. 나는 여드름 패치를 붙였고, 패치를 떼어냈을 때 딱지가 생긴 몇 개의 구멍이 남았습니다."
+          },
+          {
+            "body": "oof the tape probably created the perfect storm for clogged pores with all that pressure and moisture trapped underneath",
+            "ups": 7,
+            "author": "Far_Matter7599",
+            "body_ko": "맙소사, 테이프는 아마도 그 아래에 갇힌 모든 압력과 습기로 인해 막힌 모공에 완벽한 폭풍을 만들어냈을 것입니다."
+          }
+        ]
       },
       {
         "id": "1ragws2",
@@ -539,20 +825,57 @@
           "Not a long term solution by any means but try taking a antihistamine",
           "Bro your hair is cooked you better do scalp massage to improve hair growth otherwise when your in your 30s you'll be bald."
         ],
-        "debate_top3": [],
+        "debate_top3": [
+          "I see you mentioned you have an appointment with a derm in a few months - sorry you have to wait so long! In the meantime I’d just keep everything as gentle as possible and avoid picking/popping to reduce scarring. A nice gentle cleanser and moisture well is the best plan for now to avoid further irritation from harsh washes. I think your derm will likely recommend accutane right away and then you can feel comfortable knowing it will be gone in a few months!",
+          "Hate to say it but Accutane is the way to go",
+          "Dermatologist only please. You can rinse it with lukewarm tee doesn’t matter green or black for now. Good luck 🍀"
+        ],
         "key": "acne:1ragws2",
         "title_ko": "여드름이 아파요. 누군가 도와줄 수 있나요?",
         "body_ko": "안녕하세요 m17님, 여드름 통증을 줄이는 방법에 대한 조언을 찾고 있습니다! 지금은 염증이 너무 심해요...",
-        "image_url": "",
+        "image_url": "https://preview.redd.it/vvho35itsrkg1.jpeg?auto=webp&s=a3717315d27408a1c0cfa8f7e7b5b98e3d5fc8c1",
         "categories": [
-          "인식"
+          "인식",
+          "루틴"
         ],
-        "situation_note": "본문에서 사용자가 피부/위생 이슈의 원인을 추적하는 맥락이 확인됨",
-        "comment_note": "댓글 데이터가 제한적이라 본문 중심 해석",
+        "situation_note": "본문에서 사용자가 피부/위생 이슈 원인을 추적하는 맥락이 확인됨",
+        "comment_note": "전체 댓글에서 경험 공유와 대안 제안이 반복됨",
         "insight_notes": [
-          "접촉면 위생과 트러블 연관 인식이 확인되어 문제정의 메시지 유효"
+          "접촉면 위생과 트러블 연관 인식이 확인되어 문제정의 메시지 유효",
+          "세탁/교체 주기 피로가 보여 간편 교체 가치 제안이 설득 포인트"
         ],
-        "comment_top5": []
+        "comment_top5": [
+          {
+            "body": "I see you mentioned you have an appointment with a derm in a few months - sorry you have to wait so long! In the meantime I’d just keep everything as gentle as possible and avoid picking/popping to reduce scarring. A nice gentle cleanser and moisture well is the best plan for now to avoid further irritation from harsh washes. I think your derm will likely recommend accutane right away and then you can feel comfortable knowing it will be gone in a few months!",
+            "ups": 13,
+            "author": "Adventurous_Gift7059",
+            "body_ko": "몇 달 후에 피부과 예약이 있다고 말씀하셨는데요. 너무 오래 기다리게 해서 죄송합니다! 그동안 나는 모든 것을 가능한 한 부드럽게 유지하고 흉터를 줄이기 위해 따거나 터뜨리는 것을 피했습니다. 가혹한 세탁으로 인한 추가 자극을 피하기 위해서는 좋은 순한 클렌저와 수분 공급 장치가 최선의 계획입니다. 제 생각에는 귀하의 피부과에서 즉시 Accutane을 추천할 것이며 몇 달 안에 그것이 사라질 것이라는 것을 알고 편안함을 느낄 수 있을 것입니다!"
+          },
+          {
+            "body": "Hate to say it but Accutane is the way to go",
+            "ups": 6,
+            "author": "skinmogul",
+            "body_ko": "말하기 싫지만 Accutane이 갈 길입니다"
+          },
+          {
+            "body": "Dermatologist only please. You can rinse it with lukewarm tee doesn’t matter green or black for now. Good luck 🍀",
+            "ups": 6,
+            "author": "Just-Deal7385",
+            "body_ko": "피부과 의사만 부탁드립니다. 일단 녹색이든 검정색이든 상관없이 미지근한 티셔츠로 헹구시면 됩니다. 행운을 빕니다 👉"
+          },
+          {
+            "body": "It is definitely hormonal. When acne is like this it’s not something that can be fixed by simple diet changes. A dermatologist is the only one who can help. Medication is the way to go to balance your hormone levels. In the meantime get a salicyclic acid treatment of some sort and sulfur cleanser. And don’t forget to use moisturizer even if it feels greasy. If your skin barrier is dry it produces more oil to compensate = more acne.",
+            "ups": 6,
+            "author": "Alchemystica",
+            "body_ko": "확실히 호르몬입니다. 이런 여드름은 단순한 식습관 변화로 고칠 수 있는 것이 아닙니다. 피부과 전문의만이 도움을 줄 수 있습니다. 약물 치료는 호르몬 수치의 균형을 맞추는 방법입니다. 그동안 일종의 살리실산 처리와 유황 세척제를 사용하십시오. 그리고 기름진 느낌이 들더라도 보습제를 사용하는 것을 잊지 마세요. 피부 장벽이 건조하면 보상하기 위해 더 많은 오일이 생성됩니다 = 더 많은 여드름이 발생합니다."
+          },
+          {
+            "body": "I see that you have an appointment in March for a dermatologist and I hope that they help you friend.  That does look so painful",
+            "ups": 6,
+            "author": "Porcelain766",
+            "body_ko": "3월에 피부과 진료 예약이 있으신 것으로 알고 있는데, 그들이 도움이 되기를 바랍니다.  그거 참 고통스러워 보이는데"
+          }
+        ]
       },
       {
         "id": "1rd9myw",
@@ -579,7 +902,11 @@
           "It’s so real, recently I just posted my acne, some days it’s manageable and I don’t feel depressed about it-other days it feels terrible, constantly looking at photos and mirrors, and since it also hurts so bad(the acne) I get shivers. So I totally get how you feel. I’m still battling my acne so it’s tough, I would give advice but I’m struggling as well.",
           "Hopefully you get through it, took me a while to finally accept it, and honestly I feel way much better than before. Went down the whole list from sleeping, eating, exercising, skincare products, water etc and said “fuck it. It is what it is.” Luckily my skin feels better now that I’m not stressing about it."
         ],
-        "debate_top3": [],
+        "debate_top3": [
+          "26 years and counting for me :D The psychological aspect has ruined my social life quite frankly. I have had T-area hormonal acne since 13 which turned to cystic at 19. Then add rosacea and super oiliness in the mix.",
+          "I feel you 😭 its like when one pimple heals a few others pop up ugh i’m so tired of this. Its not just the physical pain from the acne but the emotional toll on your confidence too. Sigh i just wanna get rid of my acne forever, been suffering from it for 17 years really hoping this is the last year i’ll get acne 🙏🏻",
+          "god this hits so hard, the mental exhaustion is real and nobody talks about it enough  i literally avoided mirrors for months because i knew id just obsess over every bump"
+        ],
         "key": "acne:1rd9myw",
         "title_ko": "매일 여드름 생각에 지쳤어요",
         "body_ko": "나는 사람들이 여드름을 장기적으로 다룰 때까지 정신적으로 지치는 여드름이 얼마나 될 수 있는지 깨닫지 못한다고 생각합니다. 그것은 단지 여드름 자체가 아니라, 거울을 확인하고, 조명을 확인하고, 사람들이 당신과 대화할 때 그것을 볼 수 있는지 궁금해하는 등 얼마나 끊임없이 당신의 얼굴을 인식하게 되는지에 달려 있습니다.\n\n어떤 날은 관리가 가능하다고 느껴지고 다른 날은 내 자신감을 완전히 죽입니다. 매일 그 정신적 무게를 짊어지는 것은 지치는 일입니다.\n\n이런 느낌을 받는 사람이 나뿐만이 아니라는 것을 나는 안다. 그런 일을 겪은 사람들에게, 신체적으로나 정신적으로 피부가 더 나은 곳으로 가는 데 무엇이 도움이 되었나요?",
@@ -588,13 +915,44 @@
           "인식",
           "루틴"
         ],
-        "situation_note": "본문에서 사용자가 피부/위생 이슈의 원인을 추적하는 맥락이 확인됨",
-        "comment_note": "댓글 데이터가 제한적이라 본문 중심 해석",
+        "situation_note": "본문에서 사용자가 피부/위생 이슈 원인을 추적하는 맥락이 확인됨",
+        "comment_note": "전체 댓글에서 경험 공유와 대안 제안이 반복됨",
         "insight_notes": [
           "접촉면 위생과 트러블 연관 인식이 확인되어 문제정의 메시지 유효",
           "세탁/교체 주기 피로가 보여 간편 교체 가치 제안이 설득 포인트"
         ],
-        "comment_top5": []
+        "comment_top5": [
+          {
+            "body": "26 years and counting for me :D The psychological aspect has ruined my social life quite frankly. I have had T-area hormonal acne since 13 which turned to cystic at 19. Then add rosacea and super oiliness in the mix.",
+            "ups": 7,
+            "author": "planetblonde",
+            "body_ko": "26년이 지났네요. :D 솔직히 말해서 심리적인 측면이 제 사회 생활을 망쳤어요. 저는 13세부터 T 부위 호르몬성 여드름이 있었는데 19세에 낭포성 여드름으로 변했습니다. 그런 다음 주사비와 슈퍼 유성을 추가하세요."
+          },
+          {
+            "body": "I feel you 😭 its like when one pimple heals a few others pop up ugh i’m so tired of this. Its not just the physical pain from the acne but the emotional toll on your confidence too. Sigh i just wanna get rid of my acne forever, been suffering from it for 17 years really hoping this is the last year i’ll get acne 🙏🏻",
+            "ups": 6,
+            "author": "Strawberrylover_08",
+            "body_ko": "느낌이 옵니다 😭 여드름 하나가 치료되면 다른 여드름이 몇 개 나타나는 것 같아요 윽 이거 너무 지겨워요. 여드름으로 인한 육체적인 고통뿐만 아니라 자신감에 대한 감정적인 피해도 있습니다. 한숨, 난 그냥 여드름을 영원히 없애고 싶어요. 17년 동안 여드름으로 고통받고 있어요. 올해가 제가 여드름이 나는 마지막 해가 되길 바라고 있어요 🙏🏻"
+          },
+          {
+            "body": "god this hits so hard, the mental exhaustion is real and nobody talks about it enough  i literally avoided mirrors for months because i knew id just obsess over every bump",
+            "ups": 5,
+            "author": "Far_Matter7599",
+            "body_ko": "맙소사, 이게 너무 강렬해, 정신적 피로는 현실이고 아무도 그것에 대해 충분히 이야기하지 않는다. 나는 글자 그대로 몇 달 동안 거울을 피했다. 왜냐하면 나는 모든 충돌에 집착한다는 것을 알았기 때문이다."
+          },
+          {
+            "body": "What exhausted me the most was not knowing why my acne kept coming back. It felt random and out of my control.   I started using Nol la mainly because it helped me understand what was actually triggering my breakouts.   Once I understood the patterns, my skin stopped going into constant irritation mode.",
+            "ups": 5,
+            "author": "Dense_Childhood_9657",
+            "body_ko": "나를 가장 지치게 한 것은 왜 여드름이 계속 재발하는지 알지 못하는 것이었습니다. 그것은 무작위적이고 통제할 수 없는 것처럼 느껴졌습니다.   Nol la를 사용하기 시작한 이유는 실제로 무엇이 내 발진을 유발하는지 이해하는 데 도움이 되었기 때문입니다.   패턴을 이해한 후에는 피부가 지속적인 자극 모드로 들어가는 것을 멈췄습니다."
+          },
+          {
+            "body": "Honestly no advice. Just solidarity. I had cystic acne in HS. I only have two pictures from HS. As I got older I’ve had to care less about what others think and stop thinking badly about myself. It’s super hard bc Thats the first thing people notice and they definitely treat us differently. Not rude but there’s a wall there. If you can afford it look into micro needling.",
+            "ups": 3,
+            "author": "mojaaaaguar",
+            "body_ko": "솔직히 조언은 없습니다. 단지 연대. 나는 HS에 낭포성 여드름이 있었습니다. HS에서 찍은 사진은 두 장뿐입니다. 나이가 들면서 다른 사람이 어떻게 생각하는지 신경을 덜 쓰고 나 자신에 대해 나쁘게 생각하는 것을 멈춰야 했습니다. 정말 어렵습니다. 사람들이 가장 먼저 알아차리는 것이 바로 그것이고 그들은 확실히 우리를 다르게 대합니다. 무례하지는 않지만 거기에는 벽이 있습니다. 여유가 있다면 마이크로 니들링을 살펴보세요."
+          }
+        ]
       },
       {
         "id": "1re0hfg",
@@ -619,22 +977,57 @@
           "Wow! Amazing what a journey. Could you please share your routine",
           "I didn't have this severe but I used acne star and put ice on red pimples now they are better"
         ],
-        "debate_top3": [],
+        "debate_top3": [
+          "What did you use? and your routine?",
+          "GIRL WOW! You've done an amazing job!! What's your routine?",
+          "????THE CAT? ????"
+        ],
         "key": "acne:1re0hfg",
         "title_ko": "일관성이 내 여드름을 제거한 방법",
         "body_ko": "2년 전, 저는 끊임없는 문제로 어려움을 겪고 있었고 제가 찾을 수 있는 모든 \"빠른 해결 방법\"을 시도하고 있었습니다. 아무것도 효과가 없었습니다. 서두르는 것을 멈추고 일관성을 유지하는 데 집중하기 전까지는 말이죠.\n\n같은 루틴. 인내심. 진행 속도가 느리게 느껴질 때에도 프로세스를 신뢰합니다.\n\n하루아침에 맑아지지는 않았지만, 조금씩 피부가 좋아졌습니다. 이제 마침내 일관성이 모든 것을 변화시켰다고 말할 수 있습니다.\n\n내가 했다면 당신도 분명히 할 수 있을 것이다. 포기하지 마십시오. 피부에는 시간이 필요합니다. 🤍",
-        "image_url": "",
+        "image_url": "https://preview.redd.it/zzp84n2evjlg1.jpg?width=140&amp;height=105&amp;auto=webp&amp;s=9b3204b8030f9b3410f791825db210d9bf784824",
         "categories": [
           "인식",
           "루틴"
         ],
-        "situation_note": "본문에서 사용자가 피부/위생 이슈의 원인을 추적하는 맥락이 확인됨",
-        "comment_note": "댓글 데이터가 제한적이라 본문 중심 해석",
+        "situation_note": "본문에서 사용자가 피부/위생 이슈 원인을 추적하는 맥락이 확인됨",
+        "comment_note": "전체 댓글에서 경험 공유와 대안 제안이 반복됨",
         "insight_notes": [
           "접촉면 위생과 트러블 연관 인식이 확인되어 문제정의 메시지 유효",
           "세탁/교체 주기 피로가 보여 간편 교체 가치 제안이 설득 포인트"
         ],
-        "comment_top5": []
+        "comment_top5": [
+          {
+            "body": "What did you use? and your routine?",
+            "ups": 12,
+            "author": "Easy_Concentrate8944",
+            "body_ko": "무엇을 사용하셨나요? 그리고 당신의 일상은?"
+          },
+          {
+            "body": "GIRL WOW! You've done an amazing job!! What's your routine?",
+            "ups": 7,
+            "author": "One_Lake_3290",
+            "body_ko": "와우! 당신은 놀라운 일을 해냈습니다!! 당신의 일상은 무엇입니까?"
+          },
+          {
+            "body": "????THE CAT? ????",
+            "ups": 3,
+            "author": "phantomb1ood",
+            "body_ko": "????고양이? ????"
+          },
+          {
+            "body": "Wow! Amazing what a journey. Could you please share your routine",
+            "ups": 2,
+            "author": "sri_smile",
+            "body_ko": "우와! 정말 놀라운 여행입니다. 당신의 루틴을 공유해 주시겠어요?"
+          },
+          {
+            "body": "**Please reply to this comment with any pertinent information that may help others answer your questions.**    Your skin type, current routine and duration, past routines/products/ingredients tried and duration of usage, etc.   *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/acne) if you have any questions or concerns.*",
+            "ups": 1,
+            "author": "AutoModerator",
+            "body_ko": "**다른 사람들이 귀하의 질문에 답변하는 데 도움이 될 수 있는 관련 정보를 이 댓글에 회신해 주세요.** 귀하의 피부 유형, 현재 루틴 및 지속 시간, 과거에 시도한 루틴/제품/성분 및 사용 기간 등. *저는 봇이며 이 작업은 자동으로 수행되었습니다. 질문이나 우려 사항이 있는 경우 [이 하위 레딧의 중재자에게 문의](/message/compose/?to=/r/acne)하세요.*"
+          }
+        ]
       },
       {
         "id": "1raw8j2",
@@ -665,7 +1058,11 @@
           "Going through the same thing here, not even birth control helped. Dermatologist says my only hope is Accutane",
           "It happens to me too. I really dislike it. It’ll clear up then the next week, it’s back. I haven’t found something that I do that directly correlates with it. Feels completely random."
         ],
-        "debate_top3": [],
+        "debate_top3": [
+          "Same here. I don't even notice a correlation with my period. Feels totally random.",
+          "This is the most frustrating part fr. Just when you think “okay my skin is finally normal,” it randomly decides to ruin everything again. Makes no sense.",
+          "If it’s cycle related for you, look into spearmint tea. There’s been some research published about its effects. I won’t claim to know how it works, but it has helped me a lot with reducing hormonal breakouts."
+        ],
         "key": "acne:1raw8j2",
         "title_ko": "왜 여드름이 좋아졌다가 갑자기 다시 생기나요?",
         "body_ko": "이것은 제가 여드름을 치료하면서 가장 실망스러운 부분입니다. 마침내 피부가 더 좋아 보이고 다시 희망을 느끼기 시작하다가 갑자기 갑자기 터져 왜 그런지조차 모르는 지점에 도달하게 될 것입니다.\n\n실제로는 그것을 알아낸 적이 없고 일시적으로 통제했을 뿐이라는 느낌이 듭니다. 나는 루틴을 고수하려고 노력했고, 일을 너무 빨리 바꾸지 않고, 인내심을 가지려고 노력했지만 여전히 예측할 수 없는 느낌을 받았습니다.\n\n그것은 항상 내 마음 속에 있기 때문에 정신적으로 지쳐 있습니다. 나는 또 다른 돌파구가 항상 코앞에 다가온 것처럼 느껴지기 때문에 결코 완전히 긴장을 풀지 못합니다.\n\n이런 일을 겪고 결국 피부를 안정시키는 데 도움이 되는 것을 발견한 사람이 있습니까?",
@@ -674,13 +1071,44 @@
           "인식",
           "루틴"
         ],
-        "situation_note": "본문에서 사용자가 피부/위생 이슈의 원인을 추적하는 맥락이 확인됨",
-        "comment_note": "댓글 데이터가 제한적이라 본문 중심 해석",
+        "situation_note": "본문에서 사용자가 피부/위생 이슈 원인을 추적하는 맥락이 확인됨",
+        "comment_note": "전체 댓글에서 경험 공유와 대안 제안이 반복됨",
         "insight_notes": [
           "접촉면 위생과 트러블 연관 인식이 확인되어 문제정의 메시지 유효",
           "세탁/교체 주기 피로가 보여 간편 교체 가치 제안이 설득 포인트"
         ],
-        "comment_top5": []
+        "comment_top5": [
+          {
+            "body": "Same here. I don't even notice a correlation with my period. Feels totally random.",
+            "ups": 21,
+            "author": "BankLive9111",
+            "body_ko": "여기도 마찬가지입니다. 나는 내 생리와 상관 관계조차 느끼지 못합니다. 완전히 무작위로 느껴집니다."
+          },
+          {
+            "body": "This is the most frustrating part fr. Just when you think “okay my skin is finally normal,” it randomly decides to ruin everything again. Makes no sense.",
+            "ups": 13,
+            "author": "Embarrassed_Essay_61",
+            "body_ko": "가장 답답한 부분이 fr입니다. '드디어 내 피부가 정상이 됐다'고 생각하는 순간, 무작위로 모든 것을 다시 망치기로 결정합니다. 말이 안 돼요."
+          },
+          {
+            "body": "If it’s cycle related for you, look into spearmint tea. There’s been some research published about its effects. I won’t claim to know how it works, but it has helped me a lot with reducing hormonal breakouts.",
+            "ups": 12,
+            "author": "freudismydaddy",
+            "body_ko": "생리주기와 관련이 있다면 스피어민트 차를 살펴보세요. 그 효과에 관한 연구가 발표되었습니다. 나는 그것이 어떻게 작동하는지 안다고 주장하지는 않지만 호르몬 분비를 줄이는 데 많은 도움이 되었습니다."
+          },
+          {
+            "body": "If you are a woman, I think it's just your cycle. I have horrible acne during my period, then it gets a bit better, then I have 2 or 3 good skin days and then everything gets worse and worse until I get my period again. The hormones are at fault here.",
+            "ups": 11,
+            "author": "Shark_L0V3R",
+            "body_ko": "당신이 여자라면 그것은 단지 당신의주기라고 생각합니다. 저는 생리 중에 끔찍한 여드름이 생겼다가 조금 나아졌다가 2~3일 동안 피부가 좋아졌다가 다시 생리가 시작될 때까지 모든 것이 점점 더 악화됩니다. 여기에는 호르몬이 문제가 있습니다."
+          },
+          {
+            "body": "Are you female? Hormones could be the culprit. I struggled with the same thing. I use birth control now and the acne seems to have vanished (not overnight, it took about 5 months for my body to adjust)",
+            "ups": 9,
+            "author": "Illustrious-Nose3100",
+            "body_ko": "당신은 여성입니까? 호르몬이 원인일 수 있습니다. 나는 같은 일로 어려움을 겪었습니다. 지금은 피임약을 사용하고 있는데 여드름이 사라진 것 같습니다. (하룻밤 사이는 아니고 몸이 적응하는 데 약 5개월이 걸렸습니다.)"
+          }
+        ]
       },
       {
         "id": "1r691l7",
@@ -2972,5 +3400,5 @@
     "hygiene": [],
     "CleaningTips": []
   },
-  "enriched_at": "2026-03-06T23:35:13.691359"
+  "enriched_at": "2026-03-07T08:05:43.970326"
 }
