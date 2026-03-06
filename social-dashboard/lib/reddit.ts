@@ -38,8 +38,12 @@ function listBaseReportFiles(): string[] {
   if (!fs.existsSync(REPORT_DIR)) return [];
   return fs
     .readdirSync(REPORT_DIR)
-    .filter((f) => /^reddit_daily_report_.*\.json$/.test(f) && !f.includes("_translated") && !f.includes("_enriched"))
-    .sort((a, b) => fs.statSync(path.join(REPORT_DIR, b)).mtimeMs - fs.statSync(path.join(REPORT_DIR, a)).mtimeMs);
+    .filter((f) => /^reddit_daily_report_\d{4}-\d{2}-\d{2}\.json$/.test(f))
+    .sort((a, b) => {
+      const da = a.match(/(\d{4}-\d{2}-\d{2})/)?.[1] ?? "";
+      const db = b.match(/(\d{4}-\d{2}-\d{2})/)?.[1] ?? "";
+      return db.localeCompare(da); // newest date first
+    });
 }
 
 export function listReportArchives(): Array<{ fileName: string; date: string }> {
