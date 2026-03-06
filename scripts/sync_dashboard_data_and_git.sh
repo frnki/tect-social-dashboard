@@ -7,24 +7,30 @@ DST="$ROOT/social-dashboard/data/reddit"
 
 mkdir -p "$DST"
 
-latest_base=$(ls -1t "$SRC"/reddit_daily_report_*.json 2>/dev/null | grep -v '_enriched\.json' | grep -v '_translated\.json' | head -n1 || true)
-if [[ -z "${latest_base:-}" ]]; then
+# keep rolling latest 30 days (archive in dashboard)
+latest_bases=$(ls -1 "$SRC"/reddit_daily_report_*.json 2>/dev/null | grep -v '_enriched\.json' | grep -v '_translated\.json' | sort -r | head -n 30 || true)
+if [[ -z "${latest_bases}" ]]; then
   echo "No base report found in $SRC"
   exit 1
 fi
 
-latest_enriched="${latest_base%.json}_enriched.json"
-if [[ ! -f "$latest_enriched" ]]; then
-  echo "No enriched report found: $latest_enriched"
-  exit 1
-fi
+# clear old dashboard data first
+find "$DST" -type f -name 'reddit_daily_report_*.json' -delete || true
 
-cp "$latest_base" "$DST/"
-cp "$latest_enriched" "$DST/"
+count=0
+while IFS= read -r latest_base; do
+  [[ -z "$latest_base" ]] && continue
+  latest_enriched="${latest_base%.json}_enriched.json"
+  cp "$latest_base" "$DST/"
+  if [[ -f "$latest_enriched" ]]; then
+    cp "$latest_enriched" "$DST/"
+  fi
+  count=$((count+1))
+done <<EOF
+$latest_bases
+EOF
 
-echo "Synced:"
-echo "- $(basename "$latest_base")"
-echo "- $(basename "$latest_enriched")"
+echo "Synced ${count} base reports (+ enriched when exists)"
 
 cd "$ROOT"
 

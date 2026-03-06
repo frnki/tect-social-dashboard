@@ -122,10 +122,17 @@ export default async function Home({ searchParams }: Props) {
                   {view !== "ko" && <p style={{ marginTop: 8, whiteSpace: "pre-wrap", lineHeight: 1.5, color: "#444" }} dangerouslySetInnerHTML={{ __html: highlightHtml(bodyEn, highlightTerms) }} />}
 
                   <div style={{ marginTop: 10, borderTop: "1px dashed #ddd", paddingTop: 10 }}>
-                    <b>주요 댓글 원문 (Top comments)</b>
                     <ul style={{ marginTop: 8, paddingLeft: 20 }}>
-                      {(p.debate_top3 ?? []).length ? (
-                        (p.debate_top3 ?? []).map((c, i) => <li key={i} style={{ marginBottom: 6 }}>{c}</li>)
+                      {(ex?.comment_top5 ?? []).length ? (
+                        (ex?.comment_top5 ?? []).slice(0, 5).map((c, i) => (
+                          <li key={i} style={{ marginBottom: 10 }}>
+                            <div style={{ fontSize: 12, color: "#666", marginBottom: 4 }}>
+                              u/{c.author || "unknown"} · upvotes {c.ups ?? 0}
+                            </div>
+                            {view !== "en" && <div style={{ marginBottom: 4 }}>{c.body_ko || c.body}</div>}
+                            {view !== "ko" && <div style={{ color: "#555" }}>{c.body}</div>}
+                          </li>
+                        ))
                       ) : (
                         <li>[댓글 데이터 없음]</li>
                       )}

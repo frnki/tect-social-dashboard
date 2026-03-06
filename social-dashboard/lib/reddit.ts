@@ -29,6 +29,7 @@ export type EnrichedRow = {
   insight_notes?: string[];
   situation_note?: string;
   comment_note?: string;
+  comment_top5?: Array<{ body: string; body_ko?: string; ups?: number; author?: string }>;
 };
 
 const REPORT_DIR = path.resolve(process.cwd(), "data/reddit");
@@ -42,7 +43,7 @@ function listBaseReportFiles(): string[] {
 }
 
 export function listReportArchives(): Array<{ fileName: string; date: string }> {
-  return listBaseReportFiles().slice(0, 3).map((fileName) => {
+  return listBaseReportFiles().slice(0, 30).map((fileName) => {
     const m = fileName.match(/reddit_daily_report_(\d{4}-\d{2}-\d{2})\.json/);
     return { fileName, date: m?.[1] ?? fileName };
   });
@@ -84,6 +85,7 @@ export function getEnrichedForReport(fileName: string): Map<string, EnrichedRow>
         insight_notes: (p.insight_notes as string[]) ?? undefined,
         situation_note: (p.situation_note as string) ?? undefined,
         comment_note: (p.comment_note as string) ?? undefined,
+        comment_top5: (p.comment_top5 as Array<{ body: string; body_ko?: string; ups?: number; author?: string }>) ?? undefined,
       });
     }
   }
